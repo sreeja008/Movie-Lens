@@ -113,7 +113,7 @@ streamlit run app.py
 
 
 ```bash
-Author: vaishnav muriki
-Email: vaishpaa@gmail.com
+Author: Rajavarapu sreeja
+Email: rsreeja2487@gmail.com 
 
 ```
